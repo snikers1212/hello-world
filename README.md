@@ -1,2 +1,6 @@
 # hello-world
-tutorial for github
+
+Hi humans!
+
+I'm Martin, computer science student from Austria, likes to learn everything about technology.
+
